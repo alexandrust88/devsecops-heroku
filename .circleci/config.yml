@@ -54,5 +54,4 @@ workflows:
   workflow:
     jobs:
       - deploy
-      - sast
-      - dast
+
